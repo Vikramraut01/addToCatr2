@@ -1,0 +1,33 @@
+footer {
+  width: 99%;
+  background-color: oldlace;
+  margin-top: 50px;
+}
+.row {
+  height: 300px;
+}
+.f {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin-top: 20px;
+  color: rgb(51, 51, 51);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  font-family: "Mier bold";
+}
+.s {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.logos {
+  display: flex;
+  gap: 10px;
+}
+.logos img {
+  width: 24px;
+}
